@@ -1,0 +1,7 @@
+go2car2go (0.0.1) unstable; urgency=low
+  * Initial release
+  * Support for finding nearest car2go vehicles
+  * Support for finding nearest car2go parking spots
+  * Support for finding nearest car2go gas stations
+
+ -- Temirlan Tentimishov <temirlan@gmx.de>  Fri, 30 Dec 2011 10:57:17 +0100

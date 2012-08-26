@@ -1,0 +1,10 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" 
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="100%" height="100%"
+    viewBox="0 0 38 38">
+    <circle transform="translate(16,16)" cx="0" cy="0" r="15"
+        style="fill: rgb(255, 255, 255); stroke: none; opacity: 0.625" />
+    <circle transform="translate(16,16)" cx="0" cy="0" r="5"
+        style="fill: rgb(253, 101, 0); stroke: rgb(128, 64, 0)" />
+</svg>
