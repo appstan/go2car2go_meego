@@ -2,7 +2,7 @@
 *
 * go2car2go - car2go client for Meego devices.
 *
-* Author: Temirlan Tentimishov (temirlan@gmx.de)
+* Author: Timur Tentimishov (temirlan@gmx.de)
 *
 * This program is free software: you can redistribute it and/or modify
 * it under the terms of the GNU General Public License as published by
